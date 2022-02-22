@@ -2,6 +2,7 @@
     margin: 0;
     bottom: 0;
     box-sizing: border-box;
+    font-family: 'Rubik Mono One', sans-serif;
 }
 
 :root {
@@ -9,6 +10,7 @@
     --color-yellow: #FFFF00;
     --color-green: #008000;
 }
+
 
 .container {
     width: 1440px;
